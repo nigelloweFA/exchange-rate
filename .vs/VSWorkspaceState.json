@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\__tests__",
+    "\\src\\store"
+  ],
+  "SelectedNode": "\\src\\components\\__tests__\\ExchangeRate.test.js",
+  "PreviewInSolutionExplorer": false
+}
